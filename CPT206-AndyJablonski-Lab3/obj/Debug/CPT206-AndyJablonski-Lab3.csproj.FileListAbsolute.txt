@@ -1,0 +1,14 @@
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\bin\Debug\CPT206-AndyJablonski-Lab3.exe.config
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\bin\Debug\CPT206-AndyJablonski-Lab3.exe
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\bin\Debug\CPT206-AndyJablonski-Lab3.pdb
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206-AndyJablonski-Lab3.csproj.AssemblyReference.cache
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206_AndyJablonski_Lab3.DataFormDisplay.resources
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206_AndyJablonski_Lab3.StatesForm.resources
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206_AndyJablonski_Lab3.Properties.Resources.resources
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206-AndyJablonski-Lab3.csproj.GenerateResource.cache
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206-AndyJablonski-Lab3.csproj.CoreCompileInputs.cache
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206-AndyJablonski-Lab3.exe
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206-AndyJablonski-Lab3.pdb
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\bin\Debug\Statelab3ClassLibrary.dll
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\bin\Debug\Statelab3ClassLibrary.pdb
+C:\Users\asjab\source\repos\CPT206-AndyJablonski-Lab3\obj\Debug\CPT206-AndyJablonski-Lab3.csproj.CopyComplete
