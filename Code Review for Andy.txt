@@ -1,0 +1,3 @@
+Code Review for Andy
+
+I couldn't get the program to work, probably because of my computer. But the code looks great! It's easy to understand with all the comments. It really helped me see what you were doing. I should start commenting my own code like that. Even though I couldn't try it out, the design looks simple and easy to use.
